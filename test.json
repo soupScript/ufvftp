@@ -1,8 +1,9 @@
 {
     "reciever":"x.x.x.x",
-    "chosen reconstruction type":"man/name",
-    "ufvftp dir":"DIR RELATIVE TO /home",
-    "username":"usr",
+    "port":"21",
+    "chosen reconstruction type":"name/man",
+    "ufvftp dir":"/",
+    "username":"demo",
     "pwd":"password"
 
 }
